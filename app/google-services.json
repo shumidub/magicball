@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "866602184160",
+    "firebase_url": "https://magicball-24743.firebaseio.com",
+    "project_id": "magicball-24743",
+    "storage_bucket": "magicball-24743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866602184160:android:9a94fb6aed3289fbba8f85",
+        "android_client_info": {
+          "package_name": "com.shumidub.magicball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866602184160-2bn3d4kdqdl6hba8m3esti0m0b5u4301.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNUgHyCaU6SrBJZ2v79GyTBYBT0eL3maE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866602184160-2bn3d4kdqdl6hba8m3esti0m0b5u4301.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
