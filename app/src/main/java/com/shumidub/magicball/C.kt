@@ -1,5 +1,5 @@
 package com.shumidub.magicball
 
 class C {
-    val i = 0
+    val i = 2
 }
